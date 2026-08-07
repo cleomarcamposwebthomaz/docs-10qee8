@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ibmw1m.indocuansite.online/sitemap.xml
